@@ -1,0 +1,13 @@
+D:\C Sharp\WpfTopper\WpfTopper\bin\Debug\WpfTopper.exe.config
+D:\C Sharp\WpfTopper\WpfTopper\bin\Debug\WpfTopper.exe
+D:\C Sharp\WpfTopper\WpfTopper\bin\Debug\WpfTopper.pdb
+D:\C Sharp\WpfTopper\WpfTopper\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+D:\C Sharp\WpfTopper\WpfTopper\obj\Debug\MainWindow.baml
+D:\C Sharp\WpfTopper\WpfTopper\obj\Debug\MainWindow.g.cs
+D:\C Sharp\WpfTopper\WpfTopper\obj\Debug\App.g.cs
+D:\C Sharp\WpfTopper\WpfTopper\obj\Debug\WpfTopper_MarkupCompile.cache
+D:\C Sharp\WpfTopper\WpfTopper\obj\Debug\WpfTopper.g.resources
+D:\C Sharp\WpfTopper\WpfTopper\obj\Debug\WpfTopper.Properties.Resources.resources
+D:\C Sharp\WpfTopper\WpfTopper\obj\Debug\WpfTopper.csproj.GenerateResource.Cache
+D:\C Sharp\WpfTopper\WpfTopper\obj\Debug\WpfTopper.exe
+D:\C Sharp\WpfTopper\WpfTopper\obj\Debug\WpfTopper.pdb
